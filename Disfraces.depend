@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686175265 source:c:\users\gonza\documents\disfraces\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+
